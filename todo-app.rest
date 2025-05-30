@@ -1,0 +1,14 @@
+###
+GET http://localhost:4000
+
+###
+POST http://localhost:4000/auth/register
+Content-Type: application/json
+
+{
+    "username": "suavadeeeppepe@gmail.com",
+    "password": "123123123"
+
+}
+
+###
