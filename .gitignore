@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# Next.js build output
+.next/
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional npm cache directory
+.npm
+
+# Debug files
+.vscode/
+.DS_Store
+*.swp
+
+# Build files
+dist/
+build/
+
+# IDE specific
+.idea/
+*.sublime-project
+*.sublime-workspace
